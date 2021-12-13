@@ -60,7 +60,8 @@ for example let assume the user chose to find the shortest path between 2 vertic
 <br />
 
 ## Algorithm time:
-![times](https://user-images.githubusercontent.com/92520981/145440500-98698d7d-7218-4550-bfc3-b38a1e5c9035.PNG)
+All the tests preformed on Intel i5-8250U 1.6Ghz CPU, and 8GB RAM 2400MHz
+![times](https://user-images.githubusercontent.com/92520981/145805613-b6c428ba-7177-4ed1-97a4-116e47b42f74.PNG)
 <br /> 
 
 ## How to run the program:
