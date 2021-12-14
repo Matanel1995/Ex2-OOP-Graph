@@ -20,13 +20,13 @@ All the functions and edits can be done by the menu bar <br />
 At each function or edit new window will popped up asking the user for the necessary details <br />
 At the bottom of the screen there is label with all the information about the results.<br /> <br /> <br />
 This is how the GUI look like:
-![Graph](https://user-images.githubusercontent.com/92520981/145411833-9b74c430-47cd-4548-92a4-7f701afefc62.PNG)
+![Graph](https://user-images.githubusercontent.com/92520981/145969925-517406a9-2a53-4ef5-b79b-d7be646c1695.PNG)
 <br />
 <br />
 for example let assume the user chose to find the shortest path between 2 vertices, new window will pop up and ask for the 2 vertices
 <br />
 <br />
-![popUp exemple](https://user-images.githubusercontent.com/92520981/145412374-708de5af-21d6-498e-ab92-ec6f2c6ff710.PNG)
+![popUp exemple](https://user-images.githubusercontent.com/92520981/145970020-148cdbc5-be4a-44ff-a6ea-6bb04966803c.PNG)
 
 ## Supported functions<br />
 ### Directed graph:<br />
@@ -76,5 +76,5 @@ Run this function:
 FilePath should be the full path to JSON file.
 <br />
 
-![how to run](https://user-images.githubusercontent.com/92520981/145442632-5a1a2692-2e16-4d19-9fc8-b95d68152de5.PNG)
+![how to run](https://user-images.githubusercontent.com/92520981/145970158-47c11657-57cf-4882-98db-f2717435be06.PNG)
 
